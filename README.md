@@ -5,7 +5,7 @@ We have implemented an automated process that syncs new user registrations from 
 ---
 
 ### 🔁 **Workflow Overview**
-![Integration Diagram](attachment://Screenshot_1.png)
+![Integration Diagram]
 
 1. **Trigger – WordPress: New User Registration**
    - This automation starts when a new user registers on the WordPress website.
